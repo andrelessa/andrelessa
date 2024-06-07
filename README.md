@@ -4,7 +4,7 @@
 ## Olá pessoal 👋
 🎓 Meu nome é André Lessa, sou engenheiro Front-end com mais de 6 anos de experiência em criação e soluções para obter um software eficiente.
 
-👩🏻‍💻 Sou desenvolvedor Front-end desde 2010, em diversos sistemas web ao longo da minha carreira.
+👩🏻‍💻 Sou desenvolvedor Front-end desde 2016, em diversos sistemas web ao longo da minha carreira.
 
 🎯 Meu objetivo é constantemente estar buscando evoluir para melhorar minha proficiência, experiência nas tecnologias e frameworks: React.Js, Javascript, Typescript, Node.js, Redux, Jest.
 
@@ -13,7 +13,7 @@
 ## Hey there 👋
 🎓 My name is André Lessa, I'm a Front-end Developer with more than 6 years of experience in creation and solutions to obtain efficient software.
 
-👩🏻‍💻 I've been a software developer since 2010. on several web systems throughout my career.
+👩🏻‍💻 I've been a software developer since 2016. on several web systems throughout my career.
 
 🎯 My goal is to constantly seek to evolve to improve my proficiency, experience in technologies and frameworks: React.Js, Javascript, Typescript, Node.js, Redux, Jest.
 
