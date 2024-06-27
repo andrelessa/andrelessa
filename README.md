@@ -1,6 +1,8 @@
 
 # André Lessa
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelessa&color=blue" alt="Profile views" /> </p>
+
 ## Olá pessoal 👋
 🎓 Meu nome é André Lessa, sou engenheiro Front-end com mais de 6 anos de experiência em criação e soluções para obter um software eficiente.
 
