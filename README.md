@@ -21,7 +21,7 @@
 
 💜 Welcome to my Github!
 
-## My Skills
+## Habilidades
  
 <div>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -38,6 +38,13 @@
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  </div>
+</br>
+<p align="left">
+  <img width="530" src="https://github-readme-stats.vercel.app/api?username=andrelessa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ </br></br>
+  <img width="530" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelessa&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
 
 <div>
 
